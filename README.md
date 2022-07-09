@@ -4,6 +4,12 @@ Hi there! I'm Andrew Combs 👋
 - 🔭 I’m currently working on becoming a data scientist/analyst
 - 🌱 I’m currently learning advanced SQL query techniques and statistics
 - 💬 Ask me about beer brewing data
+- Languages I'm familiar with:
+  - Python
+  - SQL
+  - R
+  - JavaScript
+  - HTML/CSS
 - 📫 How to find me:
   - :office: [LinkedIn](https://www.linkedin.com/in/andrew-combs-318675102/)
 
