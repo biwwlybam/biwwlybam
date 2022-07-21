@@ -12,6 +12,7 @@ Hi there! I'm Andrew Combs 👋
   - HTML/CSS
 - Projects to check out:
   - [Beer Reviews](https://github.com/biwwlybam/beer_ratings)
+  - [The Brew Calc website](https://github.com/biwwlybam/the-brew-calc-2)
 - 📫 How to find me:
   - :office: [LinkedIn](https://www.linkedin.com/in/andrew-combs-318675102/)
 
