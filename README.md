@@ -10,6 +10,8 @@ Hi there! I'm Andrew Combs 👋
   - R
   - JavaScript
   - HTML/CSS
+- Projects to check out:
+  - [Beer Reviews](https://github.com/biwwlybam/beer_ratings)
 - 📫 How to find me:
   - :office: [LinkedIn](https://www.linkedin.com/in/andrew-combs-318675102/)
 
