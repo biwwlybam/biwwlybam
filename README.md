@@ -11,6 +11,7 @@ Hi there! I'm Andrew Combs 👋
   - JavaScript
   - HTML/CSS
 - Projects to check out:
+  - [Untappd Beer Scores](https://github.com/biwwlybam/untappd_beer_ratings)
   - [Beer Reviews](https://github.com/biwwlybam/beer_ratings)
   - [The Brew Calc website](https://github.com/biwwlybam/the-brew-calc-2) and https://thebrewcalc.com
 - 📫 How to find me:
