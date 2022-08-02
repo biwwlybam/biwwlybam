@@ -2,7 +2,7 @@ Hi there! I'm Andrew Tobin 👋
 
 
 - 🔭 I’m currently working on becoming a data scientist/analyst
-- 🌱 I’m currently learning advanced SQL query techniques and statistics
+- 🌱 I’m currently learning advanced SQL query techniques, statistics, and Python
 - 💬 Ask me about beer brewing data
 - Languages I'm familiar with:
   - Python
